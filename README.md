@@ -31,3 +31,33 @@ This repository contains JSON examples covering a variety of common data structu
 1.  **Browse:** Explore the different JSON files in the repository.
 2.  **Download:** Download the JSON files you need.
 3.  **Integrate:** Use the JSON data in your projects as required.
+
+### Example (posts.json)
+
+```json
+[
+  {
+    "userId": 53,
+    "title": "title 1",
+    "content": "Alioqui defleo taedium. Uter absorbeo amissio antiquus coniuratio cum caries quaerat charisma derelinquo. Viriliter talus non timidus inflammatio.",
+    "imageUrl": "[https://picsum.photos/seed/qGX8a/1009/119?grayscale&blur=7](https://picsum.photos/seed/qGX8a/1009/119?grayscale&blur=7)",
+    "id": "1"
+  },
+  {
+    "userId": 24,
+    "title": "title 2",
+    "content": "Certe vorax depereo. Agnitio denego virgo. Adduco desparatus cometes. Vulgo somniculosus non teres. Ambitus adulescens non tenuis. Iste crinis arceo. Adulescens dolorem non amitto.",
+    "imageUrl": "[https://picsum.photos/seed/kP02v/1009/119?grayscale&blur=7](https://picsum.photos/seed/kP02v/1009/119?grayscale&blur=7)",
+    "id": "2"
+  },
+  {
+    "userId": 28,
+    "title": "title 3",
+    "content": "Adulescens statim amitto. Adfectus amitto non teres. Cubitum agnitio non adfero. Candidatus absconditus non desparatus. Depereo defessus non depono. Talus aegre non acerbitas. Depereo denego non somniculosus. Arbitro somniculosus non curo.",
+    "imageUrl": "[https://picsum.photos/seed/2Wd3v/1009/119?grayscale&blur=7](https://picsum.photos/seed/2Wd3v/1009/119?grayscale&blur=7)",
+    "id": "3"
+  }
+]
+
+## Accessing Via Direct URL
+You can access the posts.json file directly via the URL https://raw.githubusercontent.com/beresaabebe/jsonsamples/refs/heads/main/posts. This allows you to retrieve the JSON data in your applications dynamically.
