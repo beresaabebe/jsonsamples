@@ -1,4 +1,3 @@
-# jsonsamples
 # Free JSON Code Examples (MIT Licensed)
 
 This repository provides a collection of free JSON code examples for practice, learning, and development. All examples are licensed under the MIT License, allowing you to use them freely in your projects.
@@ -10,7 +9,7 @@ The purpose of this repository is to offer a readily available resource of diver
 * **Learning:** Understanding different JSON formats and structures.
 * **Practice:** Working with JSON data in various programming languages.
 * **Testing:** Using sample JSON data for testing applications.
-* **Prototyping:** Quickly creating mock data for prototypes.
+* **Prototyping:** Quickly create mock data for prototypes.
 * **Education:** Providing examples for educational purposes.
 
 ## Contents
