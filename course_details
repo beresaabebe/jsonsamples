@@ -1,273 +1,182 @@
 [
   {
-    "title": "Internal Response Developer",
+    "title": "Sviluppatore di Risposta Interna",
     "introduce": "Totus solio cribro baiulus deprecator auditor admoveo tantillus cotidie. Amplitudo non vorago id tero conspergo casso assentator. Patruus vorago cornu atqui arbor.",
     "weeks": [
       {
         "id": 1,
         "title": "Java Online",
-        "days": [
-          "Day 1",
-          "Day 2",
-          "Day 3",
-          "Day 4",
-          "Day 5"
-        ]
+        "days": ["Giorno 1", "Giorno 2", "Giorno 3", "Giorno 4", "Giorno 5"]
       }
     ],
-    "id": "1"
+    "course_id": "1"
   },
   {
-    "title": "Senior Network Engineer",
+    "title": "Ingegnere di Rete Senior",
     "introduce": "Celeritas adulescens adnuo abeo comitatus. Vapulus stips vespillo. Vulpes subnecto adimpleo. Deprecator desolo.",
     "weeks": [
       {
         "id": 2,
-        "title": "Python Basics",
-        "days": [
-          "Monday",
-          "Wednesday",
-          "Friday"
-        ]
+        "title": "Python Base",
+        "days": ["Lunedì", "Mercoledì", "Venerdì"]
       }
     ],
-    "id": "2"
+    "course_id": "2"
   },
   {
-    "title": "Data Scientist",
+    "title": "Scienziato dei Dati",
     "introduce": "Uxor adamo caterva. Desolo varius. Clamo degusto aestas. Arbitro aeger. Acerbitas defaeco.",
     "weeks": [
       {
         "id": 3,
-        "title": "Machine Learning",
-        "days": [
-          "Day 1",
-          "Day 2",
-          "Day 3",
-          "Day 4"
-        ]
+        "title": "Apprendimento Automatico",
+        "days": ["Giorno 1", "Giorno 2", "Giorno 3", "Giorno 4"]
       }
     ],
-    "id": "3"
+    "course_id": "3"
   },
   {
-    "title": "Frontend Developer",
+    "title": "Sviluppatore Frontend",
     "introduce": "Uxor adamo caterva. Desolo varius. Clamo degusto aestas. Arbitro aeger. Acerbitas defaeco.",
     "weeks": [
       {
         "id": 4,
         "title": "React JS",
-        "days": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday"
-        ]
+        "days": ["Lunedì", "Martedì", "Mercoledì", "Giovedì", "Venerdì"]
       }
     ],
-    "id": "4"
+    "course_id": "4"
   },
   {
-    "title": "Backend Developer",
+    "title": "Sviluppatore Backend",
     "introduce": "Uxor adamo caterva. Desolo varius. Clamo degusto aestas. Arbitro aeger. Acerbitas defaeco.",
     "weeks": [
       {
         "id": 5,
         "title": "Node JS",
-        "days": [
-          "Weekend 1",
-          "Weekend 2"
-        ]
+        "days": ["Weekend 1", "Weekend 2"]
       }
     ],
-    "id": "5"
+    "course_id": "5"
   },
   {
-    "title": "System Analyst",
+    "title": "Analista di Sistema",
     "introduce": "Uxor adamo caterva. Desolo varius. Clamo degusto aestas. Arbitro aeger. Acerbitas defaeco.",
     "weeks": [
       {
         "id": 6,
-        "title": "Data Analysis",
-        "days": [
-          "Day 1",
-          "Day 2",
-          "Day 3",
-          "Day 4",
-          "Day 5",
-          "Day 6",
-          "Day 7"
-        ]
+        "title": "Analisi Dati",
+        "days": ["Giorno 1", "Giorno 2", "Giorno 3", "Giorno 4", "Giorno 5", "Giorno 6", "Giorno 7"]
       }
     ],
-    "id": "6"
+    "course_id": "6"
   },
   {
-    "title": "Product Manager",
+    "title": "Responsabile di Prodotto",
     "introduce": "Uxor adamo caterva. Desolo varius. Clamo degusto aestas. Arbitro aeger. Acerbitas defaeco.",
     "weeks": [
       {
         "id": 7,
-        "title": "Product Management",
-        "days": [
-          "Monday",
-          "Wednesday"
-        ]
+        "title": "Gestione del Prodotto",
+        "days": ["Lunedì", "Mercoledì"]
       }
     ],
-    "id": "7"
+    "course_id": "7"
   },
   {
-    "title": "UI/UX Designer",
+    "title": "Progettista UI/UX",
     "introduce": "Uxor adamo caterva. Desolo varius. Clamo degusto aestas. Arbitro aeger. Acerbitas defaeco.",
     "weeks": [
       {
         "id": 8,
-        "title": "UI Design",
-        "days": [
-          "Day 1",
-          "Day 2",
-          "Day 3",
-          "Day 4"
-        ]
+        "title": "Progettazione UI",
+        "days": ["Giorno 1", "Giorno 2", "Giorno 3", "Giorno 4"]
       }
     ],
-    "id": "8"
+    "course_id": "8"
   },
   {
-    "title": "Cybersecurity Analyst",
+    "title": "Analista di Cybersecurity",
     "introduce": "Uxor adamo caterva. Desolo varius. Clamo degusto aestas. Arbitro aeger. Acerbitas defaeco.",
     "weeks": [
       {
         "id": 9,
-        "title": "Network Security",
-        "days": [
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ]
+        "title": "Sicurezza di Rete",
+        "days": ["Venerdì", "Sabato", "Domenica"]
       }
     ],
-    "id": "9"
+    "course_id": "9"
   },
   {
-    "title": "Cloud Engineer",
+    "title": "Ingegnere Cloud",
     "introduce": "Uxor adamo caterva. Desolo varius. Clamo degusto aestas. Arbitro aeger. Acerbitas defaeco.",
     "weeks": [
       {
         "id": 10,
-        "title": "AWS Certifications",
-        "days": [
-          "Day 1",
-          "Day 2",
-          "Day 3",
-          "Day 4",
-          "Day 5"
-        ]
+        "title": "Certificazioni AWS",
+        "days": ["Giorno 1", "Giorno 2", "Giorno 3", "Giorno 4", "Giorno 5"]
       }
     ],
-    "id": "10"
+    "course_id": "10"
   },
   {
-    "title": "Mobile App Developer",
+    "title": "Sviluppatore di App Mobile",
     "introduce": "Uxor adamo caterva. Desolo varius. Clamo degusto aestas. Arbitro aeger. Acerbitas defaeco.",
     "weeks": [
       {
         "id": 11,
         "title": "React Native",
-        "days": [
-          "Monday",
-          "Tuesday"
-        ]
+        "days": ["Lunedì", "Martedì"]
       }
     ],
-    "id": "11"
+    "course_id": "11"
   },
   {
-    "title": "DevOps Engineer",
+    "title": "Ingegnere DevOps",
     "introduce": "Uxor adamo caterva. Desolo varius. Clamo degusto aestas. Arbitro aeger. Acerbitas defaeco.",
     "weeks": [
       {
         "id": 12,
-        "title": "Docker and Kubernetes",
-        "days": [
-          "Weekend 1",
-          "Weekend 2"
-        ]
+        "title": "Docker e Kubernetes",
+        "days": ["Weekend 1", "Weekend 2"]
       }
     ],
-    "id": "12"
+    "course_id": "12"
   },
   {
-    "title": "Database Administrator",
+    "title": "Amministratore di Database",
     "introduce": "Uxor adamo caterva. Desolo varius. Clamo degusto aestas. Arbitro aeger. Acerbitas defaeco.",
     "weeks": [
       {
         "id": 13,
-        "title": "SQL Advanced",
-        "days": [
-          "Day 1",
-          "Day 2",
-          "Day 3",
-          "Day 4",
-          "Day 5",
-          "Day 6",
-          "Day 7"
-        ]
+        "title": "SQL Avanzato",
+        "days": ["Giorno 1", "Giorno 2", "Giorno 3", "Giorno 4", "Giorno 5", "Giorno 6", "Giorno 7"]
       }
     ],
-    "id": "13"
+    "course_id": "13"
   },
   {
-    "title": "Software Architect",
+    "title": "Architetto Software",
     "introduce": "Uxor adamo caterva. Desolo varius. Clamo degusto aestas. Arbitro aeger. Acerbitas defaeco.",
     "weeks": [
       {
         "id": 14,
-        "title": "System Design",
-        "days": [
-          "Wednesday",
-          "Friday"
-        ]
+        "title": "Progettazione di Sistemi",
+        "days": ["Mercoledì", "Venerdì"]
       }
     ],
-    "id": "14"
+    "course_id": "14"
   },
   {
-    "title": "Technical Writer",
+    "title": "Scrittore Tecnico",
     "introduce": "Uxor adamo caterva. Desolo varius. Clamo degusto aestas. Arbitro aeger. Acerbitas defaeco.",
     "weeks": [
       {
         "id": 15,
-        "title": "API Documentation",
-        "days": [
-          "Day 1",
-          "Day 2",
-          "Day 3",
-          "Day 4",
-          "Day 5",
-          "Day 6",
-          "Day 7"
-        ]
+        "title": "Documentazione API",
+        "days": ["Giorno 1", "Giorno 2", "Giorno 3", "Giorno 4"]
       }
     ],
-    "id": "15"
-  },
-  {
-    "title": "QA Engineer",
-    "introduce": "Uxor adamo caterva. Desolo varius. Clamo degusto aestas. Arbitro aeger. Acerbitas defaeco.",
-    "weeks": [
-      {
-        "id": 16,
-        "title": "Automation Testing",
-        "days": [
-          "Day 1",
-          "Day 2",
-          "Day 3",
-          "Day 4"
-        ]
-      }
-    ]
+    "course_id": "15"
   }
 ]
