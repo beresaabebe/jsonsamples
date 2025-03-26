@@ -1,0 +1,352 @@
+[
+  {
+    "textT": "Analyst",
+    "text": "deludo",
+    "icon": "https://avatars.githubusercontent.com/u/92476055",
+    "colors": "colors 1",
+    "id": "1"
+  },
+  {
+    "textT": "Facilitator",
+    "text": "adsuesco",
+    "icon": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/4.jpg",
+    "colors": "colors 2",
+    "id": "2"
+  },
+  {
+    "textT": "Associate",
+    "text": "deputo",
+    "icon": "https://avatars.githubusercontent.com/u/61402912",
+    "colors": "colors 3",
+    "id": "3"
+  },
+  {
+    "textT": "Orchestrator",
+    "text": "iusto",
+    "icon": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/85.jpg",
+    "colors": "colors 4",
+    "id": "4"
+  },
+  {
+    "textT": "Executive",
+    "text": "id",
+    "icon": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/68.jpg",
+    "colors": "colors 5",
+    "id": "5"
+  },
+  {
+    "textT": "Analyst",
+    "text": "amplus",
+    "icon": "https://avatars.githubusercontent.com/u/12902323",
+    "colors": "colors 6",
+    "id": "6"
+  },
+  {
+    "textT": "Officer",
+    "text": "stella",
+    "icon": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/36.jpg",
+    "colors": "colors 7",
+    "id": "7"
+  },
+  {
+    "textT": "Technician",
+    "text": "ciminatio",
+    "icon": "https://avatars.githubusercontent.com/u/62249547",
+    "colors": "colors 8",
+    "id": "8"
+  },
+  {
+    "textT": "Planner",
+    "text": "vox",
+    "icon": "https://avatars.githubusercontent.com/u/91619131",
+    "colors": "colors 9",
+    "id": "9"
+  },
+  {
+    "textT": "Facilitator",
+    "text": "adstringo",
+    "icon": "https://avatars.githubusercontent.com/u/81176484",
+    "colors": "colors 10",
+    "id": "10"
+  },
+  {
+    "textT": "Architect",
+    "text": "sui",
+    "icon": "https://avatars.githubusercontent.com/u/81425810",
+    "colors": "colors 11",
+    "id": "11"
+  },
+  {
+    "textT": "Specialist",
+    "text": "capto",
+    "icon": "https://avatars.githubusercontent.com/u/76477788",
+    "colors": "colors 12",
+    "id": "12"
+  },
+  {
+    "textT": "Orchestrator",
+    "text": "tempore",
+    "icon": "https://avatars.githubusercontent.com/u/83070919",
+    "colors": "colors 13",
+    "id": "13"
+  },
+  {
+    "textT": "Strategist",
+    "text": "concedo",
+    "icon": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/88.jpg",
+    "colors": "colors 14",
+    "id": "14"
+  },
+  {
+    "textT": "Developer",
+    "text": "earum",
+    "icon": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/12.jpg",
+    "colors": "colors 15",
+    "id": "15"
+  },
+  {
+    "textT": "Officer",
+    "text": "repudiandae",
+    "icon": "https://avatars.githubusercontent.com/u/49599169",
+    "colors": "colors 16",
+    "id": "16"
+  },
+  {
+    "textT": "Supervisor",
+    "text": "vita",
+    "icon": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/99.jpg",
+    "colors": "colors 17",
+    "id": "17"
+  },
+  {
+    "textT": "Liaison",
+    "text": "veritatis",
+    "icon": "https://avatars.githubusercontent.com/u/26440069",
+    "colors": "colors 18",
+    "id": "18"
+  },
+  {
+    "textT": "Representative",
+    "text": "decimus",
+    "icon": "https://avatars.githubusercontent.com/u/81132494",
+    "colors": "colors 19",
+    "id": "19"
+  },
+  {
+    "textT": "Coordinator",
+    "text": "facilis",
+    "icon": "https://avatars.githubusercontent.com/u/33043278",
+    "colors": "colors 20",
+    "id": "20"
+  },
+  {
+    "textT": "Producer",
+    "text": "arca",
+    "icon": "https://avatars.githubusercontent.com/u/9781005",
+    "colors": "colors 21",
+    "id": "21"
+  },
+  {
+    "textT": "Designer",
+    "text": "corrupti",
+    "icon": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/90.jpg",
+    "colors": "colors 22",
+    "id": "22"
+  },
+  {
+    "textT": "Officer",
+    "text": "civis",
+    "icon": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/23.jpg",
+    "colors": "colors 23",
+    "id": "23"
+  },
+  {
+    "textT": "Facilitator",
+    "text": "adversus",
+    "icon": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/0.jpg",
+    "colors": "colors 24",
+    "id": "24"
+  },
+  {
+    "textT": "Architect",
+    "text": "velit",
+    "icon": "https://avatars.githubusercontent.com/u/44101968",
+    "colors": "colors 25",
+    "id": "25"
+  },
+  {
+    "textT": "Coordinator",
+    "text": "sit",
+    "icon": "https://avatars.githubusercontent.com/u/5479235",
+    "colors": "colors 26",
+    "id": "26"
+  },
+  {
+    "textT": "Coordinator",
+    "text": "patruus",
+    "icon": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/35.jpg",
+    "colors": "colors 27",
+    "id": "27"
+  },
+  {
+    "textT": "Facilitator",
+    "text": "verus",
+    "icon": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/80.jpg",
+    "colors": "colors 28",
+    "id": "28"
+  },
+  {
+    "textT": "Supervisor",
+    "text": "testimonium",
+    "icon": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/7.jpg",
+    "colors": "colors 29",
+    "id": "29"
+  },
+  {
+    "textT": "Engineer",
+    "text": "accusamus",
+    "icon": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/79.jpg",
+    "colors": "colors 30",
+    "id": "30"
+  },
+  {
+    "textT": "Director",
+    "text": "tabernus",
+    "icon": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/20.jpg",
+    "colors": "colors 31",
+    "id": "31"
+  },
+  {
+    "textT": "Administrator",
+    "text": "temporibus",
+    "icon": "https://avatars.githubusercontent.com/u/1389593",
+    "colors": "colors 32",
+    "id": "32"
+  },
+  {
+    "textT": "Agent",
+    "text": "studio",
+    "icon": "https://avatars.githubusercontent.com/u/23701683",
+    "colors": "colors 33",
+    "id": "33"
+  },
+  {
+    "textT": "Associate",
+    "text": "dolore",
+    "icon": "https://avatars.githubusercontent.com/u/80198440",
+    "colors": "colors 34",
+    "id": "34"
+  },
+  {
+    "textT": "Technician",
+    "text": "adflicto",
+    "icon": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/15.jpg",
+    "colors": "colors 35",
+    "id": "35"
+  },
+  {
+    "textT": "Engineer",
+    "text": "sit",
+    "icon": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/52.jpg",
+    "colors": "colors 36",
+    "id": "36"
+  },
+  {
+    "textT": "Planner",
+    "text": "tremo",
+    "icon": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/65.jpg",
+    "colors": "colors 37",
+    "id": "37"
+  },
+  {
+    "textT": "Engineer",
+    "text": "congregatio",
+    "icon": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/20.jpg",
+    "colors": "colors 38",
+    "id": "38"
+  },
+  {
+    "textT": "Engineer",
+    "text": "derideo",
+    "icon": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/81.jpg",
+    "colors": "colors 39",
+    "id": "39"
+  },
+  {
+    "textT": "Administrator",
+    "text": "advenio",
+    "icon": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/1.jpg",
+    "colors": "colors 40",
+    "id": "40"
+  },
+  {
+    "textT": "Agent",
+    "text": "ulciscor",
+    "icon": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/83.jpg",
+    "colors": "colors 41",
+    "id": "41"
+  },
+  {
+    "textT": "Assistant",
+    "text": "tamquam",
+    "icon": "https://avatars.githubusercontent.com/u/57549893",
+    "colors": "colors 42",
+    "id": "42"
+  },
+  {
+    "textT": "Agent",
+    "text": "utrum",
+    "icon": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/59.jpg",
+    "colors": "colors 43",
+    "id": "43"
+  },
+  {
+    "textT": "Liaison",
+    "text": "timidus",
+    "icon": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/57.jpg",
+    "colors": "colors 44",
+    "id": "44"
+  },
+  {
+    "textT": "Assistant",
+    "text": "cras",
+    "icon": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/88.jpg",
+    "colors": "colors 45",
+    "id": "45"
+  },
+  {
+    "textT": "Manager",
+    "text": "suadeo",
+    "icon": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/66.jpg",
+    "colors": "colors 46",
+    "id": "46"
+  },
+  {
+    "textT": "Officer",
+    "text": "defetiscor",
+    "icon": "https://avatars.githubusercontent.com/u/61477121",
+    "colors": "colors 47",
+    "id": "47"
+  },
+  {
+    "textT": "Technician",
+    "text": "tenax",
+    "icon": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/28.jpg",
+    "colors": "colors 48",
+    "id": "48"
+  },
+  {
+    "textT": "Producer",
+    "text": "derideo",
+    "icon": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/76.jpg",
+    "colors": "colors 49",
+    "id": "49"
+  },
+  {
+    "textT": "Coordinator",
+    "text": "curso",
+    "icon": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/26.jpg",
+    "colors": "colors 50",
+    "id": "50"
+  }
+]
