@@ -1,42 +1,14 @@
 [
   {
-    "id": 1,
-    "mainTitle": "Galata Maariyaam"
+    "title": "Galata Maariyaam",
+    "id": "1"
   },
   {
-    "id": 2,
-    "mainTitle": "Galata Gooftaa"
+    "title": "Galata Gooftaa",
+    "id": "2"
   },
   {
-    "id": 3,
-    "mainTitle": "Galata Lixoonii"
-  },
-  {
-	"id": 4,
-	"mainTitle": "Kadhannaa Addaa"
-  },
-  {
-	  "id": 5,
-	  "mainTitle": "Kadhannaa Waadaa"
-  }
-  {
-	  "id": 6,
-	  "mainTitle": "Dirsaanee Ergamootaa"
-  },
-  {
-	  "id": 7,
-	  "mainTitle": "Faaruu Daawiit"
-  },
-  {
-	  "id": 8,
-	  "mainTitle": "Ergamoota Qulqulluu"
-  },
-  {
-	  "id": 9,
-	  "mainTitle": "Barmsaa Hibu'aat"
-  },
-  {
-	  "id": 10,
-	  "mainTitle": "Abboota Bara Seera Laphee"
+	  "title": "Galata Lixoonii",
+	  "id":"3"
   }
 ]
